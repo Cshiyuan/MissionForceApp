@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:background="#454344"
+    android:gravity="center"
+    android:orientation="vertical"
+    android:padding="10dp"
+    android:weightSum="1">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="10dp"
+        android:gravity="center"
+        android:text="请输入小组信息"
+        android:textStyle="bold"
+        android:textSize="24sp"
+        android:textColor="@android:color/background_light"
+        android:layout_weight="0.15" />
+
+    <RelativeLayout
+        android:layout_width="fill_parent"
+        android:layout_height="353dp"
+        android:layout_gravity="center"
+        android:orientation="vertical"
+        android:paddingLeft="20dp"
+        android:paddingRight="20dp"
+        android:layout_weight="0.45">
+
+
+        <Button
+            android:id="@+id/create"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="#ea4c88"
+            android:text="创建"
+            android:textColor="@android:color/white"
+            android:layout_marginBottom="30dp"
+            android:textSize="18sp"
+            android:layout_alignParentBottom="true"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentLeft="true" />
+
+        <Button
+            android:id="@+id/cancel"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="#ea4c88"
+            android:text="取消"
+            android:textColor="@android:color/white"
+            android:textSize="18sp"
+            android:layout_alignBaseline="@+id/create"
+            android:layout_alignBottom="@+id/create"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentRight="true" />
+
+        <TextView
+            android:text="小组名称："
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentTop="true"
+            android:layout_marginTop="25dp"
+            android:id="@+id/textview"
+            android:textSize="18sp"
+            android:textColor="@android:color/white" />
+
+        <EditText
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:inputType="textPersonName"
+            android:ems="10"
+            android:layout_alignParentTop="true"
+            android:layout_toEndOf="@+id/textview"
+            android:layout_marginTop="14dp"
+            android:id="@+id/Group_name"
+            android:selectAllOnFocus="true"
+            android:textColor="@android:color/white"
+            android:singleLine="true"
+            android:layout_toRightOf="@+id/textview" />
+
+        <TextView
+            android:text="描述"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/Group_name"
+            android:layout_alignStart="@+id/textview"
+            android:layout_marginTop="21dp"
+            android:id="@+id/textView"
+            android:textSize="18sp"
+            android:textColor="@android:color/white"
+            android:layout_alignLeft="@+id/textview" />
+
+        <EditText
+            android:layout_width="250dp"
+            android:inputType="textMultiLine"
+            android:ems="10"
+            android:id="@+id/Group_info"
+            android:layout_below="@+id/textView"
+            android:layout_centerHorizontal="true"
+            android:layout_height="180dp"
+            android:selectAllOnFocus="true"
+            android:singleLine="true"
+            android:textColor="@android:color/white"
+            android:gravity="top|left" />
+    </RelativeLayout>
+
+
+</LinearLayout>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="timetodeadline">
+        <item>截止时间 10分钟前</item>
+        <item>截止时间 半小时前</item>
+        <item>截止时间 1小时前</item>
+        <item>截止时间 2小时前</item>
+        <item>截止时间 1天前</item>
+    </string-array>
+
+</resources>

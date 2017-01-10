@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:weightSum="10">
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:weightSum="10">
+        <TextView
+            android:layout_weight="9"
+            android:id="@+id/main_groupName_TextView"
+            android:layout_width="wrap_content"
+            android:textAlignment="center"
+            android:layout_height="wrap_content"
+            android:textSize="50dp"
+            android:text="XXX"/>
+        <Button
+            android:id="@+id/checkVoteButton"
+            android:layout_weight="1"
+            android:layout_marginRight="5dp"
+            android:layout_gravity="center_vertical"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="@color/white"
+            android:background="@color/dark_light"
+            android:textSize="10dp"
+            android:text=" 查看投票 "/>
+    </LinearLayout>
+
+    <!--<TextView-->
+        <!--android:layout_width="match_parent"-->
+        <!--android:layout_height="wrap_content"-->
+        <!--android:textSize="20dp"-->
+        <!--android:text=""/>-->
+
+
+    <com.chanven.lib.cptr.PtrClassicFrameLayout
+        android:layout_weight="10"
+        xmlns:cube_ptr="http://schemas.android.com/apk/res-auto"
+        android:id="@+id/list_view_frame"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#f0f0f0"
+        cube_ptr:ptr_duration_to_close="200"
+        cube_ptr:ptr_duration_to_close_header="700"
+        cube_ptr:ptr_keep_header_when_refresh="true"
+        cube_ptr:ptr_pull_to_fresh="false"
+        cube_ptr:ptr_ratio_of_header_height_to_refresh="1.2"
+        cube_ptr:ptr_resistance="1.8" >
+
+
+        <ListView
+            android:id="@+id/list_view"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:dividerHeight="0.1dp"
+            android:background="@android:color/white"
+            android:divider="#b0b0b0"
+            android:choiceMode="singleChoice"
+            android:fadingEdge="none"
+            android:scrollbarStyle="outsideOverlay" />
+    </com.chanven.lib.cptr.PtrClassicFrameLayout>
+
+
+    <LinearLayout
+        android:background="@color/dark_light"
+        android:layout_marginTop="20dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_marginBottom="10dp"
+        android:weightSum="3">
+        <Button
+            android:id="@+id/addGroupMember_Button"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:textColor="@color/white"
+            android:background="@color/red_btn_bg_pressed_color"
+            android:text="添加组员"/>
+        <Button
+            android:id="@+id/assignMission_Button"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="@color/white"
+            android:background="@color/greenyellow"
+            android:layout_weight="1"
+            android:text="布置任务"/>
+        <Button
+            android:id="@+id/createVote_Button"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="@color/white"
+            android:background="@color/blue_btn_bg_color"
+            android:layout_weight="1"
+            android:text="发起投票"/>
+    </LinearLayout>
+
+</LinearLayout>
