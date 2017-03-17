@@ -3,7 +3,7 @@
 =======
 # MissionForceApp
 课程大作业---一个简单的任务协作MissionForce 的Android端
->>>>>>> 4e311040c299cfc076d6f415cfaf03ba2881742a
+
 只是软件工程课的作业
 
 需求分析
@@ -36,11 +36,10 @@
 创建列表以分类不同任务，并添加标注或评论
 
 创建小组来共同完成任务，组长可在一定时间期限内向小组成员分配任务在完成任务时，有两种模式①正常模式，在完成任务的过程中依旧可以使用手机②免打扰模式，在该模式下，如果在完成任务
->>>>>>> 4e311040c299cfc076d6f415cfaf03ba2881742a
+
 
 ## 展示图
-<img src="https://github.com/Cshiyuan/MissionForceApp/blob/master/image/%E5%9B%BE%E7%89%87%201.png" width = "10%" />
-<img src="https://github.com/Cshiyuan/MissionForceApp/blob/master/image/%E5%9B%BE%E7%89%87%202.png" width = "10%" />
+<img src="https://github.com/Cshiyuan/MissionForceApp/blob/master/image/%E5%9B%BE%E7%89%87%201.png" width = "10%" /><img src="https://github.com/Cshiyuan/MissionForceApp/blob/master/image/%E5%9B%BE%E7%89%87%202.png" width = "10%" />
 <img src="https://github.com/Cshiyuan/MissionForceApp/blob/master/image/%E5%9B%BE%E7%89%87%203.png" width = "10%" />
 <img src="https://github.com/Cshiyuan/MissionForceApp/blob/master/image/3%E6%9C%88-17-2017%2015-53-34.gif" width = "10%" />
 <img src="https://github.com/Cshiyuan/MissionForceApp/blob/master/image/3%E6%9C%88-17-2017%2015-53-15.gif" width = "10%" />
