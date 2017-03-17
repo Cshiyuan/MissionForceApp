@@ -37,3 +37,9 @@
 
 创建小组来共同完成任务，组长可在一定时间期限内向小组成员分配任务在完成任务时，有两种模式①正常模式，在完成任务的过程中依旧可以使用手机②免打扰模式，在该模式下，如果在完成任务
 >>>>>>> 4e311040c299cfc076d6f415cfaf03ba2881742a
+
+## 展示图
+
+![image -w100](https://github.com/Cshiyuan/MissionForceApp/blob/master/image/3%E6%9C%88-17-2017%2015-53-15.gif)
+![image -w100](https://github.com/Cshiyuan/MissionForceApp/blob/master/image/3%E6%9C%88-17-2017%2015-53-34.gif)
+
