@@ -43,4 +43,5 @@
 ![image -w50](https://github.com/Cshiyuan/MissionForceApp/blob/master/image/3%E6%9C%88-17-2017%2015-53-15.gif)
 ![image -w50](https://github.com/Cshiyuan/MissionForceApp/blob/master/image/3%E6%9C%88-17-2017%2015-53-34.gif)
 <img src="https://github.com/Cshiyuan/MissionForceApp/blob/master/image/%E5%9B%BE%E7%89%87%203.png" width = "10%" />
+<img src="https://github.com/Cshiyuan/MissionForceApp/blob/master/image/3%E6%9C%88-17-2017%2015-53-34.gif" width = "10%" />
 
