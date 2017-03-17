@@ -2,8 +2,12 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+<<<<<<< HEAD
       <module fileurl="file://$PROJECT_DIR$/MissionForceAPP.iml" filepath="$PROJECT_DIR$/MissionForceAPP.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+=======
+      <module fileurl="file://$PROJECT_DIR$/.idea/MissionForceApp.iml" filepath="$PROJECT_DIR$/.idea/MissionForceApp.iml" />
+>>>>>>> 7f22f105768f753a38d255f5463e4fecca540265
     </modules>
   </component>
 </project>
