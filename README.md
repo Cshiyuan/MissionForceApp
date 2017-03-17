@@ -39,8 +39,8 @@
 
 
 ## 展示图
-<img src="https://github.com/Cshiyuan/MissionForceApp/blob/master/image/%E5%9B%BE%E7%89%87%201.png" width = "10%" /><img src="https://github.com/Cshiyuan/MissionForceApp/blob/master/image/%E5%9B%BE%E7%89%87%202.png" width = "10%" />
-<img src="https://github.com/Cshiyuan/MissionForceApp/blob/master/image/%E5%9B%BE%E7%89%87%203.png" width = "10%" />
-<img src="https://github.com/Cshiyuan/MissionForceApp/blob/master/image/3%E6%9C%88-17-2017%2015-53-34.gif" width = "10%" />
-<img src="https://github.com/Cshiyuan/MissionForceApp/blob/master/image/3%E6%9C%88-17-2017%2015-53-15.gif" width = "10%" />
+<img src="https://github.com/Cshiyuan/MissionForceApp/blob/master/image/%E5%9B%BE%E7%89%87%201.png" width = "15%" /><img src="https://github.com/Cshiyuan/MissionForceApp/blob/master/image/%E5%9B%BE%E7%89%87%202.png" width = "15%" />
+<img src="https://github.com/Cshiyuan/MissionForceApp/blob/master/image/%E5%9B%BE%E7%89%87%203.png" width = "15%" />
+<img src="https://github.com/Cshiyuan/MissionForceApp/blob/master/image/3%E6%9C%88-17-2017%2015-53-34.gif" width = "15%" />
+<img src="https://github.com/Cshiyuan/MissionForceApp/blob/master/image/3%E6%9C%88-17-2017%2015-53-15.gif" width = "15%" />
 
