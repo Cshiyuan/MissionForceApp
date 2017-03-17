@@ -3,21 +3,21 @@
 
     <item
         is-multidex="false"
-        jar="/Users/bb/Desktop/androidStudioWorkSpace/MissionForce/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jar="/Users/bb/Desktop/githubRepository/MissionForceApp/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.0/jars/libs/internal_impl-24.2.0.jar"
         jumboMode="false"
         optimize="true"
         revision="24.0.2"
         sha1="6e02e34594ebe9c0501ffda8dd48497f81b82977">
-        <dex dex="/Users/bb/Desktop/androidStudioWorkSpace/MissionForce/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.0_e79dc4971b56abb8fdc21fa1b331c994cc8802e1.jar" />
+        <dex dex="/Users/bb/Desktop/githubRepository/MissionForceApp/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.0_6afbbb28b59f4d01b81984d8a7aa7e606bd3ebe3.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="/Users/bb/Desktop/androidStudioWorkSpace/MissionForce/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.0/jars/classes.jar"
+        jar="/Users/bb/Desktop/githubRepository/MissionForceApp/app/build/intermediates/exploded-aar/com.pnikosis/materialish-progress/1.0/jars/classes.jar"
         jumboMode="false"
         optimize="true"
         revision="24.0.2"
-        sha1="45f5eda279825ff470e3f51019d374d1ef61e000">
-        <dex dex="/Users/bb/Desktop/androidStudioWorkSpace/MissionForce/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-24.2.0_a6d38a28b43c60078226674c91882a80bca23fd8.jar" />
+        sha1="57487745ce450899f9f250d5ae5c092a682cd041">
+        <dex dex="/Users/bb/Desktop/githubRepository/MissionForceApp/app/build/intermediates/pre-dexed/debug/com.pnikosis-materialish-progress-1.0_83786783d076d956d05258f06c7096b522f73167.jar" />
     </item>
     <item
         is-multidex="false"
@@ -26,25 +26,7 @@
         optimize="true"
         revision="24.0.2"
         sha1="ea392375cf9ff59234a82e7928a204215ccc98cd">
-        <dex dex="/Users/bb/Desktop/androidStudioWorkSpace/MissionForce/app/build/intermediates/pre-dexed/debug/butterknife-annotations-8.4.0_fc83c1b39f8bbcb247ab5c50c70faf2f4a332ce6.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/bb/Desktop/androidStudioWorkSpace/MissionForce/app/build/intermediates/exploded-aar/com.jakewharton/butterknife/8.4.0/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.2"
-        sha1="a07818a1ecabdb149998823429cce555af4b9cba">
-        <dex dex="/Users/bb/Desktop/androidStudioWorkSpace/MissionForce/app/build/intermediates/pre-dexed/debug/com.jakewharton-butterknife-8.4.0_30d776c3928daab6e52ac5430210fc74fadf21e6.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/bb/Desktop/androidStudioWorkSpace/MissionForce/app/build/intermediates/exploded-aar/com.github.iwgang/countdownview/2.1.2/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.2"
-        sha1="313a0aad4620cba2bc02f818a5120a14f9dbd2bf">
-        <dex dex="/Users/bb/Desktop/androidStudioWorkSpace/MissionForce/app/build/intermediates/pre-dexed/debug/com.github.iwgang-countdownview-2.1.2_e4c9d586671756815bac0a4bb9eab691784dc4d9.jar" />
+        <dex dex="/Users/bb/Desktop/githubRepository/MissionForceApp/app/build/intermediates/pre-dexed/debug/butterknife-annotations-8.4.0_fc83c1b39f8bbcb247ab5c50c70faf2f4a332ce6.jar" />
     </item>
     <item
         is-multidex="false"
@@ -53,52 +35,61 @@
         optimize="true"
         revision="24.0.2"
         sha1="b0b08cc0ac897e596abe6b263a9507cba875b705">
-        <dex dex="/Users/bb/Desktop/androidStudioWorkSpace/MissionForce/app/build/intermediates/pre-dexed/debug/com.android.volley-2015.05.28_5ca53ca4753a36aba64bdc73d10f7721aa536c05.jar" />
+        <dex dex="/Users/bb/Desktop/githubRepository/MissionForceApp/app/build/intermediates/pre-dexed/debug/com.android.volley-2015.05.28_5ca53ca4753a36aba64bdc73d10f7721aa536c05.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="/Users/bb/Desktop/androidStudioWorkSpace/MissionForce/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.2"
-        sha1="c3c638be6e650b165ab9ae144857b64e82787fad">
-        <dex dex="/Users/bb/Desktop/androidStudioWorkSpace/MissionForce/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-24.2.0_a5a0d4f0c199900f226598ef9a5ce24e4d38810e.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/bb/Desktop/androidStudioWorkSpace/MissionForce/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jar="/Users/bb/Desktop/githubRepository/MissionForceApp/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.0/jars/libs/internal_impl-24.2.0.jar"
         jumboMode="false"
         optimize="true"
         revision="24.0.2"
         sha1="032a4b53def5e2ceedfc2e793b126c0163cfa1dd">
-        <dex dex="/Users/bb/Desktop/androidStudioWorkSpace/MissionForce/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.0_9aee0af977b8631f483ad0b86f514a0f87427038.jar" />
+        <dex dex="/Users/bb/Desktop/githubRepository/MissionForceApp/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.0_c25389a998be4e86ac816d29b5eaf79249e60824.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="/Users/bb/Desktop/androidStudioWorkSpace/MissionForce/app/build/intermediates/exploded-aar/de.hdodenhof/circleimageview/2.1.0/jars/classes.jar"
+        jar="/Users/bb/Desktop/githubRepository/MissionForceApp/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.1.0/jars/classes.jar"
         jumboMode="false"
         optimize="true"
         revision="24.0.2"
-        sha1="a2af9c72ccaa4c5c049b500ca6ea664a4ce1f7d4">
-        <dex dex="/Users/bb/Desktop/androidStudioWorkSpace/MissionForce/app/build/intermediates/pre-dexed/debug/de.hdodenhof-circleimageview-2.1.0_df6bb639c26332c1a77d141318501723e5e5f735.jar" />
+        sha1="3f151e49c316a5ab2c065969a3b3b55ef9b393fc">
+        <dex dex="/Users/bb/Desktop/githubRepository/MissionForceApp/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-23.1.0_9a9ad7ab57684111da804bde885009fe50ec77b6.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="/Users/bb/Desktop/androidStudioWorkSpace/MissionForce/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.0/jars/classes.jar"
+        jar="/Users/bb/Desktop/githubRepository/MissionForceApp/app/build/intermediates/exploded-aar/com.github.iwgang/countdownview/2.1.2/jars/classes.jar"
         jumboMode="false"
         optimize="true"
         revision="24.0.2"
-        sha1="d8bd2268fdcbfd52c76ade65d9900cd8def93a44">
-        <dex dex="/Users/bb/Desktop/androidStudioWorkSpace/MissionForce/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-24.2.0_f0956772fce6dd108a8872c30c8a2c250a20ef37.jar" />
+        sha1="313a0aad4620cba2bc02f818a5120a14f9dbd2bf">
+        <dex dex="/Users/bb/Desktop/githubRepository/MissionForceApp/app/build/intermediates/pre-dexed/debug/com.github.iwgang-countdownview-2.1.2_ec8d74dbf1fde63adcf58c4c15b6070d408a9ee0.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="/Users/bb/Desktop/androidStudioWorkSpace/MissionForce/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.0/jars/classes.jar"
+        jar="/Users/bb/Desktop/githubRepository/MissionForceApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/jars/classes.jar"
         jumboMode="false"
         optimize="true"
         revision="24.0.2"
-        sha1="6eb9107eb34d2fe2b020662b7fbbec991dcba846">
-        <dex dex="/Users/bb/Desktop/androidStudioWorkSpace/MissionForce/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-24.2.0_f523241d1e30e75680663f50cefa43f667cdf03f.jar" />
+        sha1="c3c638be6e650b165ab9ae144857b64e82787fad">
+        <dex dex="/Users/bb/Desktop/githubRepository/MissionForceApp/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-24.2.0_5a7fc978ab622f6cb3d307378fc284fe663b7f0d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/bb/Desktop/githubRepository/MissionForceApp/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="fcc945a86ebcbf527429acb8216ec7dae2c06417">
+        <dex dex="/Users/bb/Desktop/githubRepository/MissionForceApp/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-24.2.0_7c52388086174c6cf98000888465b4d32b9c1b97.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/bb/Desktop/githubRepository/MissionForceApp/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="f3ee23ef25c9a8fe3d40246d0b7097267963a612">
+        <dex dex="/Users/bb/Desktop/githubRepository/MissionForceApp/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-24.2.0_5c4aa1c358eea2437fa92de9c9453a49226d55b6.jar" />
     </item>
     <item
         is-multidex="false"
@@ -107,151 +98,160 @@
         optimize="true"
         revision="24.0.2"
         sha1="6be858a75633b1f0a2d24cad740db57775cb6871">
-        <dex dex="/Users/bb/Desktop/androidStudioWorkSpace/MissionForce/app/build/intermediates/pre-dexed/debug/support-annotations-24.2.0_bad78b7f1ffe535d6100fa0d8fdb58d612c77693.jar" />
+        <dex dex="/Users/bb/Desktop/githubRepository/MissionForceApp/app/build/intermediates/pre-dexed/debug/support-annotations-24.2.0_bad78b7f1ffe535d6100fa0d8fdb58d612c77693.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="/Users/bb/Desktop/androidStudioWorkSpace/MissionForce/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jar="/Users/bb/Desktop/githubRepository/MissionForceApp/app/build/intermediates/exploded-aar/de.hdodenhof/circleimageview/2.1.0/jars/classes.jar"
         jumboMode="false"
         optimize="true"
         revision="24.0.2"
-        sha1="771b3cc0e597b54da25f8086ba73180c59c6bc71">
-        <dex dex="/Users/bb/Desktop/androidStudioWorkSpace/MissionForce/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.0_ee60ab5c7b183cec6c4cac4cbdfe678f0594a145.jar" />
+        sha1="a2af9c72ccaa4c5c049b500ca6ea664a4ce1f7d4">
+        <dex dex="/Users/bb/Desktop/githubRepository/MissionForceApp/app/build/intermediates/pre-dexed/debug/de.hdodenhof-circleimageview-2.1.0_70700159cc96d93264a75d0bd491f465b08379c5.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="/Users/bb/Desktop/androidStudioWorkSpace/MissionForce/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.0/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.2"
-        sha1="beac40bcc8a320a896dd15f5109cfcaea5e1e0e3">
-        <dex dex="/Users/bb/Desktop/androidStudioWorkSpace/MissionForce/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-24.2.0_a4b74043573bc201b85a774d91a21d9b4bdc9324.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/bb/Desktop/androidStudioWorkSpace/MissionForce/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.1.0/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.2"
-        sha1="3f151e49c316a5ab2c065969a3b3b55ef9b393fc">
-        <dex dex="/Users/bb/Desktop/androidStudioWorkSpace/MissionForce/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-23.1.0_eccfa89d456fc20e29cf8dffeb7c942fc89b02e2.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/bb/Desktop/androidStudioWorkSpace/MissionForce/app/build/intermediates/exploded-aar/com.github.eluleci/flatui/3.0.0/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.2"
-        sha1="d1089efa4a24767294278997764bea2fda31ccca">
-        <dex dex="/Users/bb/Desktop/androidStudioWorkSpace/MissionForce/app/build/intermediates/pre-dexed/debug/com.github.eluleci-flatui-3.0.0_d99702f53ff50a1ab14af768b00720230d6a8978.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/bb/Desktop/androidStudioWorkSpace/MissionForce/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.0/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.2"
-        sha1="c84e216d9bf618464d6b9564d71d9a656433e7c4">
-        <dex dex="/Users/bb/Desktop/androidStudioWorkSpace/MissionForce/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-24.2.0_8e1bdaba9f92d4521d05a3585c12abaf9ef0cfdf.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/bb/Desktop/androidStudioWorkSpace/MissionForce/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.0/jars/libs/internal_impl-24.2.0.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.2"
-        sha1="045be695d968dd707691cc55d23746dbf8cf569a">
-        <dex dex="/Users/bb/Desktop/androidStudioWorkSpace/MissionForce/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.0_16ea4463ac02b6306a2e6c2fd5a5d5fbb3fbe8f0.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/bb/Desktop/androidStudioWorkSpace/MissionForce/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.0/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.2"
-        sha1="fcc945a86ebcbf527429acb8216ec7dae2c06417">
-        <dex dex="/Users/bb/Desktop/androidStudioWorkSpace/MissionForce/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-24.2.0_de7401aac032b65601e2b8a8c2351d872491db85.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/bb/Desktop/androidStudioWorkSpace/MissionForce/app/build/intermediates/exploded-aar/com.amulyakhare/com.amulyakhare.textdrawable/1.0.1/jars/classes.jar"
+        jar="/Users/bb/Desktop/githubRepository/MissionForceApp/app/build/intermediates/exploded-aar/com.amulyakhare/com.amulyakhare.textdrawable/1.0.1/jars/classes.jar"
         jumboMode="false"
         optimize="true"
         revision="24.0.2"
         sha1="d237556caead5b93d97e18a071059a2c0045978e">
-        <dex dex="/Users/bb/Desktop/androidStudioWorkSpace/MissionForce/app/build/intermediates/pre-dexed/debug/com.amulyakhare-com.amulyakhare.textdrawable-1.0.1_76be80bce3b12e6f9e85c734c71cd22fa10d6da3.jar" />
+        <dex dex="/Users/bb/Desktop/githubRepository/MissionForceApp/app/build/intermediates/pre-dexed/debug/com.amulyakhare-com.amulyakhare.textdrawable-1.0.1_cf12354015cc886575a40b9f69fd03ab14a74efa.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="/Users/bb/Desktop/androidStudioWorkSpace/MissionForce/app/build/intermediates/exploded-aar/cn.pedant.sweetalert/library/1.3/jars/classes.jar"
+        jar="/Users/bb/Desktop/githubRepository/MissionForceApp/app/build/intermediates/exploded-aar/com.github.eluleci/flatui/3.0.0/jars/classes.jar"
         jumboMode="false"
         optimize="true"
         revision="24.0.2"
-        sha1="0c3529d9491be892952749d252ae1defa9b1f937">
-        <dex dex="/Users/bb/Desktop/androidStudioWorkSpace/MissionForce/app/build/intermediates/pre-dexed/debug/cn.pedant.sweetalert-library-1.3_bee98aa0a035c2441632a1f920f74279f0cf5fd9.jar" />
+        sha1="d1089efa4a24767294278997764bea2fda31ccca">
+        <dex dex="/Users/bb/Desktop/githubRepository/MissionForceApp/app/build/intermediates/pre-dexed/debug/com.github.eluleci-flatui-3.0.0_f0d721ceed2b7c5d229cfaf3e4904802b663d74c.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="/Users/bb/Desktop/androidStudioWorkSpace/MissionForce/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.0/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.2"
-        sha1="f3ee23ef25c9a8fe3d40246d0b7097267963a612">
-        <dex dex="/Users/bb/Desktop/androidStudioWorkSpace/MissionForce/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-24.2.0_45edc7f65108f53210c49d44c06009bcdbdc18f0.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/bb/Desktop/androidStudioWorkSpace/MissionForce/app/build/intermediates/exploded-aar/me.wangyuwei/ParticleView/1.0.4/jars/classes.jar"
+        jar="/Users/bb/Desktop/githubRepository/MissionForceApp/app/build/intermediates/exploded-aar/me.wangyuwei/ParticleView/1.0.4/jars/classes.jar"
         jumboMode="false"
         optimize="true"
         revision="24.0.2"
         sha1="d8cef207fe3523818f332926c75686e1e9e373fa">
-        <dex dex="/Users/bb/Desktop/androidStudioWorkSpace/MissionForce/app/build/intermediates/pre-dexed/debug/me.wangyuwei-ParticleView-1.0.4_b6515c53bc06825107ed71327187638236921235.jar" />
+        <dex dex="/Users/bb/Desktop/githubRepository/MissionForceApp/app/build/intermediates/pre-dexed/debug/me.wangyuwei-ParticleView-1.0.4_93b9a1c25909d8f5ce28cb1b2887c866f515cf9d.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="/Users/bb/Desktop/androidStudioWorkSpace/MissionForce/app/build/intermediates/exploded-aar/com.github.feeeei/CircleSeekbar/v1.1.1/jars/classes.jar"
+        jar="/Users/bb/Desktop/githubRepository/MissionForceApp/app/build/intermediates/exploded-aar/com.jakewharton/butterknife/8.4.0/jars/classes.jar"
         jumboMode="false"
         optimize="true"
         revision="24.0.2"
-        sha1="e721d7e1dbb897d069514f249cbdc6deee9afcf0">
-        <dex dex="/Users/bb/Desktop/androidStudioWorkSpace/MissionForce/app/build/intermediates/pre-dexed/debug/com.github.feeeei-CircleSeekbar-v1.1.1_946156ec758598f9ae9693e03f4c7a71fa54d288.jar" />
+        sha1="a07818a1ecabdb149998823429cce555af4b9cba">
+        <dex dex="/Users/bb/Desktop/githubRepository/MissionForceApp/app/build/intermediates/pre-dexed/debug/com.jakewharton-butterknife-8.4.0_7803969e099db5f679f23ea7737d5a6e4f357094.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="/Users/bb/Desktop/androidStudioWorkSpace/MissionForce/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jar="/Users/bb/Desktop/githubRepository/MissionForceApp/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.0/jars/libs/internal_impl-24.2.0.jar"
         jumboMode="false"
         optimize="true"
         revision="24.0.2"
-        sha1="60d7b23621d31e6f42f4f76f16af467e57a20cda">
-        <dex dex="/Users/bb/Desktop/androidStudioWorkSpace/MissionForce/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.0_48df7fe89d77b6599f768bd7f135c727d7cea206.jar" />
+        sha1="045be695d968dd707691cc55d23746dbf8cf569a">
+        <dex dex="/Users/bb/Desktop/githubRepository/MissionForceApp/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.0_9d209d53c52829010f993fafcaee0f0e1448be84.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="/Users/bb/Desktop/androidStudioWorkSpace/MissionForce/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.0/jars/classes.jar"
+        jar="/Users/bb/Desktop/githubRepository/MissionForceApp/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d8bd2268fdcbfd52c76ade65d9900cd8def93a44">
+        <dex dex="/Users/bb/Desktop/githubRepository/MissionForceApp/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-24.2.0_108c7bc80ddcba05a945c28e4fcf648f3c2f4269.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/bb/Desktop/githubRepository/MissionForceApp/app/build/intermediates/exploded-aar/cn.pedant.sweetalert/library/1.3/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="0c3529d9491be892952749d252ae1defa9b1f937">
+        <dex dex="/Users/bb/Desktop/githubRepository/MissionForceApp/app/build/intermediates/pre-dexed/debug/cn.pedant.sweetalert-library-1.3_a760813501614d821fa18154cb48d124a6640cec.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/bb/Desktop/githubRepository/MissionForceApp/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="6eb9107eb34d2fe2b020662b7fbbec991dcba846">
+        <dex dex="/Users/bb/Desktop/githubRepository/MissionForceApp/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-24.2.0_b4d41f05e2d69e45ac3371eea4992e01b82038ec.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/bb/Desktop/githubRepository/MissionForceApp/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.0/jars/classes.jar"
         jumboMode="false"
         optimize="true"
         revision="24.0.2"
         sha1="f9b41622897665678d31d78e57a361cb0cebcb0d">
-        <dex dex="/Users/bb/Desktop/androidStudioWorkSpace/MissionForce/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-24.2.0_00a3695b327254089e458e462bcce5f692f51c67.jar" />
+        <dex dex="/Users/bb/Desktop/githubRepository/MissionForceApp/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-24.2.0_19813f9cca6529dc35548a394cbea48e109e9fb5.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="/Users/bb/Desktop/androidStudioWorkSpace/MissionForce/app/build/intermediates/exploded-aar/com.chanven.lib/cptr/1.1.0/jars/classes.jar"
+        jar="/Users/bb/Desktop/githubRepository/MissionForceApp/app/build/intermediates/exploded-aar/com.chanven.lib/cptr/1.1.0/jars/classes.jar"
         jumboMode="false"
         optimize="true"
         revision="24.0.2"
         sha1="8647c0362ce323b236f7b7610c489bc69acf99ac">
-        <dex dex="/Users/bb/Desktop/androidStudioWorkSpace/MissionForce/app/build/intermediates/pre-dexed/debug/com.chanven.lib-cptr-1.1.0_f8222e1309e077cc616f981f37e1d40305d8872d.jar" />
+        <dex dex="/Users/bb/Desktop/githubRepository/MissionForceApp/app/build/intermediates/pre-dexed/debug/com.chanven.lib-cptr-1.1.0_de0f9ded7e2ac86555a164c91a3a4e2830c6c69a.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="/Users/bb/Desktop/androidStudioWorkSpace/MissionForce/app/build/intermediates/exploded-aar/com.pnikosis/materialish-progress/1.0/jars/classes.jar"
+        jar="/Users/bb/Desktop/githubRepository/MissionForceApp/app/build/intermediates/exploded-aar/com.github.feeeei/CircleSeekbar/v1.1.1/jars/classes.jar"
         jumboMode="false"
         optimize="true"
         revision="24.0.2"
-        sha1="57487745ce450899f9f250d5ae5c092a682cd041">
-        <dex dex="/Users/bb/Desktop/androidStudioWorkSpace/MissionForce/app/build/intermediates/pre-dexed/debug/com.pnikosis-materialish-progress-1.0_32a7c8c5694e6f7720dfb75d8d1e93d467488804.jar" />
+        sha1="e721d7e1dbb897d069514f249cbdc6deee9afcf0">
+        <dex dex="/Users/bb/Desktop/githubRepository/MissionForceApp/app/build/intermediates/pre-dexed/debug/com.github.feeeei-CircleSeekbar-v1.1.1_202ee9029b3da8a99502653d57bb4aabe43f123b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/bb/Desktop/githubRepository/MissionForceApp/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="c84e216d9bf618464d6b9564d71d9a656433e7c4">
+        <dex dex="/Users/bb/Desktop/githubRepository/MissionForceApp/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-24.2.0_c41c7323be7b761134a473b9ec658473275b0281.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/bb/Desktop/githubRepository/MissionForceApp/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="beac40bcc8a320a896dd15f5109cfcaea5e1e0e3">
+        <dex dex="/Users/bb/Desktop/githubRepository/MissionForceApp/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-24.2.0_b9074738e77bc55d269c24b58101869d31f31019.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/bb/Desktop/githubRepository/MissionForceApp/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="60d7b23621d31e6f42f4f76f16af467e57a20cda">
+        <dex dex="/Users/bb/Desktop/githubRepository/MissionForceApp/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.0_dbfd1f3da66c8a2ed1efc474119efc601f79bf20.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/bb/Desktop/githubRepository/MissionForceApp/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="771b3cc0e597b54da25f8086ba73180c59c6bc71">
+        <dex dex="/Users/bb/Desktop/githubRepository/MissionForceApp/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.0_31de9dc6c60ff429c28857b7ddfe4eeae5cbd78c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/bb/Desktop/githubRepository/MissionForceApp/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="45f5eda279825ff470e3f51019d374d1ef61e000">
+        <dex dex="/Users/bb/Desktop/githubRepository/MissionForceApp/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-24.2.0_aa648ea87cc401b0c06b41ea3115cddd8abf26d7.jar" />
     </item>
 
 </items>
